@@ -3,8 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.Collections;
 using UnityEngine;
-using UnityEngine.XR.ARFoundation;
-using UnityEngine.XR.ARSubsystems;
+using UnityEngine.XR.ARFoundation;//4.2.8
+using UnityEngine.XR.ARSubsystems;//4.2.8
 using ZXing;
 
 public class ARQRCodeScanner : MonoBehaviour
